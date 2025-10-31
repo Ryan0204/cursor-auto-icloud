@@ -1,3 +1,7 @@
+> [!WARNING]  
+> This project no longer works. Please support **Cursor** by purchasing [Cursor Pro](https://cursor.com/pricing)
+
+
 # Cursor Pro (iCloud) Automation Tool - Free Trial Reset Tool
 
 <div align="center">
